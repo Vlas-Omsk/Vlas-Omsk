@@ -17,7 +17,7 @@
 
 ### Technologies:
 - Dev (Backend)
-  - ASP.NET Core (MVC) + EF Core
+  - ASP.NET Core (MVC) + EF Core + SignalR
   - WebSockets and raw tcp
   - xUnit
   - Express
