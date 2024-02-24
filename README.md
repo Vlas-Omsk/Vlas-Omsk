@@ -19,7 +19,7 @@
 - Dev (Backend)
   - ASP.NET Core (MVC) + EF Core + SignalR
   - xUnit
-  - WebSockets and raw tcp
+  - WebSockets / raw tcp / udp
   - Express
 - Dev (Frontend)
   - Avalonia
