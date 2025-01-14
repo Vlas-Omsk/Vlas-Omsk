@@ -15,26 +15,6 @@
 ### Programming languages I have used:
 - Lua, C++, C, Python3, PHP
 
-### Technologies:
-- Dev (Backend)
-  - ASP.NET Core (MVC) + EF Core + SignalR
-  - xUnit
-  - gRPC / WebSockets / raw tcp / udp
-  - Express
-- Dev (Frontend)
-  - Avalonia
-    - CommunityToolkit.Mvvm (MVVM)
-  - WPF
-    - CommunityToolkit.Mvvm (MVVM)
-    - [PinkWpf](https://github.com/Vlas-Omsk/PinkWpf)
-  - MAUI
-  - Vue (v2/v3) (CSR)
-    - Vue-router
-    - Vue-API's
-      - Composition API
-      - Options API
-  - Nuxt (v2/v3)
-
 ## Projects <span id="projects"></span>
 
 - [TwitterBot - solution for automating your tasks with Twitter](https://t.me/twitter0bot)
