@@ -27,6 +27,7 @@
 ## Libraries <span id="libraries"></span>
 
 - [PinkJson (C#) - Library for working with JSON format](https://github.com/Vlas-Omsk/PinkJson)
+- [Tiles.js](https://github.com/Vlas-Omsk/Tiles.js)
 
 ## Experiments <span id="experiments"></span>
 
