@@ -21,7 +21,7 @@
 
 ### PET
 
-- [TZG (Web)](https://github.com/i3ym/TZG) - Just TZG clone
+- [TZG (Web)](https://github.com/i3ym/TZG) - Just Geoguessr clone
 
 ## Tools <span id="tools"></span>
 
