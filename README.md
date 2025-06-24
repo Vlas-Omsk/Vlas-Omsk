@@ -17,7 +17,11 @@
 
 ## Projects <span id="projects"></span>
 
-- [TwitterBot - solution for automating your tasks with Twitter](https://t.me/twitter0bot)
+*Nothing at the moment*
+
+### PET
+
+- [TZG (Web)](https://github.com/i3ym/TZG) - Just TZG clone
 
 ## Tools <span id="tools"></span>
 
@@ -26,11 +30,17 @@
 
 ## Libraries <span id="libraries"></span>
 
-- [PinkJson (C#) - Library for working with JSON format](https://github.com/Vlas-Omsk/PinkJson)
+- [PinkSystem (C#) - Library with commonly used components](https://github.com/Vlas-Omsk/PinkSystem) + [PinkSystem.Net.Http.Tls (C#)](https://github.com/Vlas-Omsk/PinkSystem.Net.Http.Tls)
+- ~~[PinkJson (C#) - Library for working with JSON format](https://github.com/Vlas-Omsk/PinkJson)~~
 - [Tiles.js](https://github.com/Vlas-Omsk/Tiles.js)
 
 ## Experiments <span id="experiments"></span>
 
-- [SimpleCalculator (C++)](https://github.com/Vlas-Omsk/SimpleCalculator)
+### PET
+
+- [SimpleCalculator (C++)](https://github.com/Vlas-Omsk/SimpleCalculator) - Why not?
+
+### Libraries
+
 - [MethodPatch (C#) - Allows you to patch a method at runtime and intercept its call ](https://github.com/Vlas-Omsk/MethodPatch)
-- [PinkWebFramework (JavaScript)](https://github.com/Vlas-Omsk/PinkWebFramework)
+- [PinkWebFramework (JS)](https://github.com/Vlas-Omsk/PinkWebFramework)
