@@ -19,10 +19,6 @@
 
 *Nothing at the moment*
 
-### PET
-
-- [TZG (Web)](https://github.com/i3ym/TZG) - Just Geoguessr clone
-
 ## Tools <span id="tools"></span>
 
 - [MediaFireDownloader - Simple console client for downloading a folder and all files from it from MediaFire](https://github.com/Vlas-Omsk/MediaFireDownloader) (**Starred**)
@@ -38,6 +34,7 @@
 
 ### PET
 
+- [TZG (Web)](https://github.com/i3ym/TZG) - Just Geoguessr clone
 - [SimpleCalculator (C++)](https://github.com/Vlas-Omsk/SimpleCalculator) - Why not?
 
 ### Libraries
