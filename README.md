@@ -8,12 +8,9 @@
 
 ## Tech stack <span id="stack"></span>
 
-### Programming languages in which I write fluently:
-- **C# (main)**
-- JavaScript, TypeScript
+C# is my main language, along with related technologies. I specialize in developing backend applications and libraries with complex logic
 
-### Programming languages I have used:
-- Lua, C++, C, Python3, PHP
+*and im passionate about clean architecture*
 
 ## Projects <span id="projects"></span>
 
