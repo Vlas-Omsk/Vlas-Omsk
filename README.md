@@ -1,4 +1,4 @@
-# Hello! My name is Vlas
+# Hello! My name is Vlas 🤪
 
 1. [Tech stack](#stack)
 2. [Projects](#projects)
@@ -10,7 +10,7 @@
 
 - C# - my main language, along with related technologies.
 - I specialize in developing backend applications and libraries with complex logic and *maybe* math.
-- *And im passionate about clean architecture.*
+- *And honestly, I went crazy and got too carried away by clean architecture.* 🤪
 
 ## Projects <span id="projects"></span>
 
