@@ -18,24 +18,24 @@
 
 ## Tools <span id="tools"></span>
 
-- [MediaFireDownloader - Simple console client for downloading a folder and all files from it from MediaFire](https://github.com/Vlas-Omsk/MediaFireDownloader) (**Popular**)
-- [MCPEKeyForwarding - Just an application that triggers a keyboard button when the right mouse button is pressed for Minecraft PE](https://github.com/Vlas-Omsk/MCPEKeyForwarding)
+- [MediaFireDownloader](https://github.com/Vlas-Omsk/MediaFireDownloader) - Simple console client for downloading a folder and all files from it from MediaFire (**Popular**)
+- [MCPEKeyForwarding](https://github.com/Vlas-Omsk/MCPEKeyForwarding) - Just an application that triggers a keyboard button when the right mouse button is pressed for Minecraft PE
 
 ## Libraries <span id="libraries"></span>
 
-- [PinkSystem (C#) - Library with commonly used components](https://github.com/Vlas-Omsk/PinkSystem)
-  - [PinkSystem.Net.Http.Tls (C#)](https://github.com/Vlas-Omsk/PinkSystem.Net.Http.Tls)
-- ~~[PinkJson (C#) - Library for working with JSON format](https://github.com/Vlas-Omsk/PinkJson)~~
+- [PinkSystem](https://github.com/Vlas-Omsk/PinkSystem) (C#) - Library with commonly used components
+  - [PinkSystem.Net.Http.Tls](https://github.com/Vlas-Omsk/PinkSystem.Net.Http.Tls) (C#) - Extension for configurable http tls
+- ~~[PinkJson](https://github.com/Vlas-Omsk/PinkJson) (C#) - Library for working with JSON format~~
 - [Tiles.js](https://github.com/Vlas-Omsk/Tiles.js)
 
 ## Experiments <span id="experiments"></span>
 
 ### PET
 
-- [TZG (Web)](https://github.com/i3ym/TZG) - Just Geoguessr clone
-- [SimpleCalculator (C++)](https://github.com/Vlas-Omsk/SimpleCalculator) - Why not?
+- [TZG](https://github.com/i3ym/TZG) (Web) - Just Geoguessr clone
+- [SimpleCalculator](https://github.com/Vlas-Omsk/SimpleCalculator) (C++) - Why not?
 
 ### Libraries
 
-- [MethodPatch (C#) - Allows you to patch a method at runtime and intercept its call ](https://github.com/Vlas-Omsk/MethodPatch)
-- [PinkWebFramework (JS)](https://github.com/Vlas-Omsk/PinkWebFramework)
+- [MethodPatch](https://github.com/Vlas-Omsk/MethodPatch) (C#) - Allows you to patch a method at runtime and intercept its call 
+- [PinkWebFramework](https://github.com/Vlas-Omsk/PinkWebFramework) (JS)
