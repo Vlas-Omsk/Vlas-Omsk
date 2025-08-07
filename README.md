@@ -23,7 +23,8 @@
 
 ## Libraries <span id="libraries"></span>
 
-- [PinkSystem (C#) - Library with commonly used components](https://github.com/Vlas-Omsk/PinkSystem) + [PinkSystem.Net.Http.Tls (C#)](https://github.com/Vlas-Omsk/PinkSystem.Net.Http.Tls)
+- [PinkSystem (C#) - Library with commonly used components](https://github.com/Vlas-Omsk/PinkSystem)
+  - [PinkSystem.Net.Http.Tls (C#)](https://github.com/Vlas-Omsk/PinkSystem.Net.Http.Tls)
 - ~~[PinkJson (C#) - Library for working with JSON format](https://github.com/Vlas-Omsk/PinkJson)~~
 - [Tiles.js](https://github.com/Vlas-Omsk/Tiles.js)
 
