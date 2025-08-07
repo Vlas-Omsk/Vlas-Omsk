@@ -8,9 +8,9 @@
 
 ## Tech stack <span id="stack"></span>
 
-C# is my main language, along with related technologies. I specialize in developing backend applications and libraries with complex logic
-
-*and im passionate about clean architecture*
+- C# - my main language, along with related technologies.
+- I specialize in developing backend applications and libraries with complex logic and *maybe* math.
+- *And im passionate about clean architecture.*
 
 ## Projects <span id="projects"></span>
 
