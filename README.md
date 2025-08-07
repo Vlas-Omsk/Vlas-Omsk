@@ -18,7 +18,7 @@
 
 ## Tools <span id="tools"></span>
 
-- [MediaFireDownloader - Simple console client for downloading a folder and all files from it from MediaFire](https://github.com/Vlas-Omsk/MediaFireDownloader) (**Starred**)
+- [MediaFireDownloader - Simple console client for downloading a folder and all files from it from MediaFire](https://github.com/Vlas-Omsk/MediaFireDownloader) (**Popular**)
 - [MCPEKeyForwarding - Just an application that triggers a keyboard button when the right mouse button is pressed for Minecraft PE](https://github.com/Vlas-Omsk/MCPEKeyForwarding)
 
 ## Libraries <span id="libraries"></span>
